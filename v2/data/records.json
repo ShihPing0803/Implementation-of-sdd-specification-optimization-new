@@ -1,0 +1,200 @@
+[
+  {
+    "id": 24,
+    "type": "income",
+    "name": "Bonus",
+    "amount": 1000.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-30 09:59:22"
+  },
+  {
+    "id": 23,
+    "type": "expense",
+    "name": "Bonus",
+    "amount": 1000.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-30 09:59:12"
+  },
+  {
+    "id": 22,
+    "type": "expense",
+    "name": "Coffee",
+    "amount": 60.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-30 09:58:35"
+  },
+  {
+    "id": 21,
+    "type": "expense",
+    "name": "Lunch",
+    "amount": 120.0,
+    "category": "Food",
+    "note": "Bento",
+    "created_at": "2026-03-30 09:54:04"
+  },
+  {
+    "id": 20,
+    "type": "income",
+    "name": "Salary",
+    "amount": 5000.0,
+    "category": "Job",
+    "note": "August",
+    "created_at": "2026-03-30 09:53:51"
+  },
+  {
+    "id": 18,
+    "type": "expense",
+    "name": "sushi",
+    "amount": 124.0,
+    "category": "food",
+    "note": "bento",
+    "created_at": "2026-03-29 20:34:51"
+  },
+  {
+    "id": 19,
+    "type": "income",
+    "name": "salary",
+    "amount": 1000.0,
+    "category": "income",
+    "note": "",
+    "created_at": "2026-03-29 20:34:51"
+  },
+  {
+    "id": 16,
+    "type": "expense",
+    "name": "sushi",
+    "amount": 124.0,
+    "category": "food",
+    "note": "bento",
+    "created_at": "2026-03-29 20:18:15"
+  },
+  {
+    "id": 17,
+    "type": "income",
+    "name": "salary",
+    "amount": 1000.0,
+    "category": "income",
+    "note": "",
+    "created_at": "2026-03-29 20:18:15"
+  },
+  {
+    "id": 14,
+    "type": "expense",
+    "name": "sushi",
+    "amount": 124.0,
+    "category": "food",
+    "note": "bento",
+    "created_at": "2026-03-29 20:14:58"
+  },
+  {
+    "id": 15,
+    "type": "income",
+    "name": "salary",
+    "amount": 1000.0,
+    "category": "income",
+    "note": "",
+    "created_at": "2026-03-29 20:14:58"
+  },
+  {
+    "id": 13,
+    "type": "expense",
+    "name": "sushi",
+    "amount": 124.0,
+    "category": "food",
+    "note": "bento",
+    "created_at": "2026-03-29 20:13:39"
+  },
+  {
+    "id": 13,
+    "type": "income",
+    "name": "salary",
+    "amount": 1000.0,
+    "category": "income",
+    "note": "",
+    "created_at": "2026-03-29 20:13:39"
+  },
+  {
+    "id": 12,
+    "type": "income",
+    "name": "asd",
+    "amount": 100.0,
+    "category": "123",
+    "note": "123",
+    "created_at": "2026-03-19 12:37:48"
+  },
+  {
+    "id": 10,
+    "type": "income",
+    "name": "Bonus",
+    "amount": 1000.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-19 12:36:13"
+  },
+  {
+    "id": 9,
+    "type": "expense",
+    "name": "Bonus",
+    "amount": 1000.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-19 12:36:01"
+  },
+  {
+    "id": 8,
+    "type": "expense",
+    "name": "Coffee",
+    "amount": 60.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-19 12:35:37"
+  },
+  {
+    "id": 7,
+    "type": "expense",
+    "name": "Lunch",
+    "amount": 120.0,
+    "category": "Food",
+    "note": "Bento",
+    "created_at": "2026-03-19 12:35:17"
+  },
+  {
+    "id": 6,
+    "type": "income",
+    "name": "Salary",
+    "amount": 5000.0,
+    "category": "Job",
+    "note": "August",
+    "created_at": "2026-03-19 12:34:46"
+  },
+  {
+    "id": 5,
+    "type": "income",
+    "name": "name",
+    "amount": 123.0,
+    "category": "-",
+    "note": "",
+    "created_at": "2026-03-19 01:02:13"
+  },
+  {
+    "id": 25,
+    "type": "expense",
+    "name": "sushi",
+    "amount": 124.0,
+    "category": "food",
+    "note": "bento",
+    "created_at": "2026-03-30 10:02:10"
+  },
+  {
+    "id": 26,
+    "type": "income",
+    "name": "salary",
+    "amount": 1000.0,
+    "category": "income",
+    "note": "",
+    "created_at": "2026-03-30 10:02:10"
+  }
+]
